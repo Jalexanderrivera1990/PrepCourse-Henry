@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este  es un repositorio de prueba del mudulo2 del prepcourse de henry
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde GITHUB a mi computadora
